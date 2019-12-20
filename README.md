@@ -80,7 +80,7 @@ VS CODE
 
 (21) In the routes/index.js file require the models.: ![Require models in routes-index js file (Sequelized_RESTfulAPI_updateAvariable)](https://user-images.githubusercontent.com/35668707/71293087-4f17e080-2342-11ea-98a6-66186798142a.JPG)
 
-(22) In the routes/index.js file add post() route for /actors that will use the findAll() method.: 
+(22) In the routes/index.js file add put() route for /actors that will use the findAll() method.: ![Add put() route for actors id in index js file (Sequelized_RESTfulAPI_updateAvariable)](https://user-images.githubusercontent.com/35668707/71293144-6eaf0900-2342-11ea-9666-7c136e6986a4.JPG)
 
 COMMAND PROMPT
 
@@ -90,7 +90,7 @@ COMMAND PROMPT
 
 POSTMAN
 
-(24) Navigate to localhost3000/actors/[insert specific id #] in Postman and perform a POST request to add data.
+(24) Navigate to localhost3000/actors/[insert specific id #] in Postman and perform a PUT request to add data.
 
 NODEMON NOTE
 
