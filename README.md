@@ -25,7 +25,7 @@ COMMAND PROMPT
 
 (6) Once the process is complete, navigate into the express_Sequelize_RESTfulAPI_ directory: 
 
-    cd express_Sequelize_RESTfulAPI_findOrCreate
+    cd express_Sequelize_RESTfulAPI_
     
 (7) Now in the express_Sequelize_RESTfulAPI_findOrCreate directory, run the following: 
 
