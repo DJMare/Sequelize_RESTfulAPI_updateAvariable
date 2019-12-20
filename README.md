@@ -68,7 +68,7 @@ COMMAND PROMPT
     
 VS CODE
 
-(16) Create a new folder in your "models" folder called rel. Create a file in your rel folder called associations.js and define the relationships between the "film" and "actor" models in this file.: ![In models folder create rel folder and an associations js file in the rel folder (Sequelized_RESTfulAPI_findOrCreate)](https://user-images.githubusercontent.com/35668707/71036366-8c366580-20eb-11ea-9fbd-fd183ac4a200.JPG)
+(16) Create a new folder in your "models" folder called rel. Create a file in your rel folder called associations.js and define the relationships between the "film" and "actor" models in this file.: 
 
 ![Update the associations js file in the rel folder (Sequelized_RESTfulAPI_findOrCreate)](https://user-images.githubusercontent.com/35668707/71036461-c273e500-20eb-11ea-98f7-9c019dcb317a.JPG)
 
