@@ -21,7 +21,7 @@ COMMAND PROMPT
 
 (5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_Sequelize_RESTfulAPI_: 
 
-    express --view=hbs express_Sequelize_RESTfulAPI_findOrCreate
+    express --view=hbs express_Sequelize_RESTfulAPI_
 
 (6) Once the process is complete, navigate into the express_Sequelize_RESTfulAPI_findOrCreate directory: 
 
