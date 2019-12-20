@@ -23,9 +23,9 @@ COMMAND PROMPT
 
     express --view=hbs express_Sequelize_RESTfulAPI_updateAvariable
 
-(6) Once the process is complete, navigate into the express_Sequelize_RESTfulAPI_ directory: 
+(6) Once the process is complete, navigate into the express_Sequelize_RESTfulAPI_updateAvariable directory: 
 
-    cd express_Sequelize_RESTfulAPI_
+    cd express_Sequelize_RESTfulAPI_updateAvariable
     
 (7) Now in the express_Sequelize_RESTfulAPI_ directory, run the following: 
 
